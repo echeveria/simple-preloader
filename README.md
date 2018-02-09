@@ -1,2 +1,2 @@
 # simple-preloader
-Simple js page preloader.
+Simple jquery page preloader.
