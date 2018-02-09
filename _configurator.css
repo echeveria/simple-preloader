@@ -15,8 +15,8 @@
   width: 125px;
   height:125px;
   margin: 0 auto;
-  border: 16px solid $color-light-gray;
-  border-top: 16px solid $color-red;
+  border: 16px solid #B3B3B3;
+  border-top: 16px solid #DC0032;
   border-radius: 50%;
   animation: spin 2s linear infinite;
 
